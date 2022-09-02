@@ -1,0 +1,47 @@
+.head {
+    position: fixed;
+    height: 80px;
+    width: 100%;
+    right: 0;
+    top: 0;
+    z-index: 999;
+    background: rgba(0, 0, 0, 0.5);
+    color: #C9C9DD;
+    font-size: 18px;
+    padding-right: 3%;
+}
+.headbox{
+    margin-top: -10px;
+    padding: 0;
+}
+.headLogo{
+    float: left;
+    width: 20%;
+    text-align: center;
+    height: 80px;
+    background: rgba(0, 0, 0, 0.55);
+    padding: 25px 0 0;
+    font-size: 20px;
+    color: #C9C9DD;
+    cursor: pointer;
+}
+.headli{
+    float: right;
+    width: 10%;
+    text-align: center;
+    height: 80px;
+    padding: 25px 0 0;
+    font-size: 20px;
+    cursor: pointer;
+}
+.headli:hover{
+    background: rgba(0,0,0,0.55);
+}
+.lia{
+    color: #FFFFFF;
+}
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
