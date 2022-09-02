@@ -89,7 +89,7 @@ var app = new Vue({
         名称: '博客',
         地址: 'https://www.cnblogs.com/haobox/',
         图片: 'images/boke.jpg',
-        简介: '新作品'
+        简介: '个人博客'
       }
     ]
   },
